@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16BED4</color>
+    <color name="colorPrimaryDark">#16BED4</color>
+    <color name="colorAccent">#16BED4</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="txt_color">#AAAAAA</color>
+    <color name="colorfloat">#16BED4</color>
+    <color name="lightgray">#404040</color>
+    <color name="lighttextcolor">#AAAAAA</color>
+    <color name="lightcolor">#00001A</color>
+    <color name="Bluewhale">#19BED4</color>
+    <color name="mythirdcolor">#404040</color>
+    <color name="btnbgcolor">#A8A8A8</color>
+    <color name="btntxtcolor">#404040</color>
+</resources>

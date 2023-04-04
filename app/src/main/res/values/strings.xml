@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="String1">Add Users</string>
+    <string name="String2">Name</string>
+    <string name="String3">Email</string>
+    <string name="String4">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="dob">DOB</string>
+    <string name="btech_passout_year">Btech passout year</string>
+    <string name="select_dob_date">Select DOB date</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="select_date_and_time">Select Date and Time</string>
+    <string name="how_do_you_rate_your_self">How do you rate your self</string>
+    <string name="how_do_you_rate_your_self_1_to_6">How do you rate your self 1 to 6</string>
+    <string name="users">Users</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="dob1">Dob</string>
+    <string name="btech">Btech</string>
+    <string name="datetime">DateTime</string>
+</resources>
